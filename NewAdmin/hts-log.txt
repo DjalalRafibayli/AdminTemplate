@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Oct 2022 17:42:53 at https://coderthemes.com/hyper_2/saas/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://coderthemes.com/hyper_2/saas/index.html -O1 "D:\Templates\NewAdmin\NewAdmin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:45:16	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper_2/saas/assets/fontsunicons.eot?34404611 (from https://coderthemes.com/hyper_2/saas/assets/css/icons.min.css)
+17:45:20	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper_2/saas/charts-chartjs.html (from https://coderthemes.com/hyper_2/saas/layouts-horizontal.html)
+17:45:21	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper_2/assets/js/ui/component.chat.js (from https://coderthemes.com/hyper_2/saas/widgets.html)
+17:45:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://coderthemes.com/hyper_2/saas/assets/vendor/britecharts/bundled/britecharts.min.js (from https://coderthemes.com/hyper_2/saas/charts-brite.html)
+17:45:21	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper_2/saas/assets/fonts/uni030C.alt.t (from https://coderthemes.com/hyper_2/saas/assets/fonts/Nunito-Medium.svg)
+17:45:21	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper_2/saas/assets/fonts/uni0335.t (from https://coderthemes.com/hyper_2/saas/assets/fonts/Nunito-Medium.svg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 29 seconds : 395 links scanned, 388 files written (39196660 bytes overall) [18311300 bytes received at 122894 bytes/sec], 24297201 bytes transferred using HTTP compression in 271 files, ratio 13%, 20.7 requests per connection
+(5 errors, 1 warnings, 0 messages)
